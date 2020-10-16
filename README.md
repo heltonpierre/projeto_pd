@@ -6,3 +6,9 @@ Implementar uma modelagem no Node-Red que realize a integração do mensageiro T
 
 Nós que serão implementados: 
 Considerando que não existem nós disponíveis no Node-red que permita a integração do Telegram com o IBM Watson será implementado um nó com uma função para adequar a mensagem de voz ao formato compatível com o Speech to Text que realizar a conversão de áudio em texto. Também será desenvolvido um segundo nó para receber a mensagem de texto ou a saída do Speech to Text e converter em comando para ser executado nos dispositivos de IoT.
+
+
+Requisitos:
+
+node-red-contrib-telegrambot
+node-red-node-watson
