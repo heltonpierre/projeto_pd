@@ -1,4 +1,3 @@
-
 /* funcao_1.js
  * Gerando o payload para o Speech to Text
  * Outubro 2020
