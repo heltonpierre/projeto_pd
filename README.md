@@ -1,4 +1,4 @@
-# projeto_pd
+# telegram_iot
 Título: Comandos de Texto e Voz via Mensageiro Telegram para Controle de Dispositivo de IoT
 
 Descrição do Projeto:
@@ -15,3 +15,14 @@ Requisitos:
 node-red-contrib-telegrambot
 
 node-red-node-watson
+
+node-red-dashboard
+
+
+Contribuidores:
+
+Degemar Pereira da Silva
+
+Helton Pierre Lucena de Medeiros
+
+Honoré Vicente Cesario
